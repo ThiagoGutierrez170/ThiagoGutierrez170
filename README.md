@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
