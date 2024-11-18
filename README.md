@@ -32,7 +32,7 @@ Desarrollador Full Stack y estudiante de la Licenciatura en Análisis de sistema
 ## Estadísticas de GitHub 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoGutierrez170&show_icons=true&theme=tokyonight&locale=es" alt="ThiagoGutierrez170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoGutierrez170&show_icons=true&theme=dark&locale=es" alt="ThiagoGutierrez170" />
 </p>
 
 <p align="center">
@@ -40,5 +40,5 @@ Desarrollador Full Stack y estudiante de la Licenciatura en Análisis de sistema
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoGutierrez170&show_icons=true&theme=tokyonight&locale=es&layout=compact" alt="ThiagoGutierrez170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoGutierrez170&show_icons=true&theme=dark&locale=es&layout=compact" alt="ThiagoGutierrez170" />
 </p>
