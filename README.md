@@ -9,14 +9,14 @@ Desarrollador Full Stack y estudiante de la Licenciatura en Análisis de sistema
 ### Stack Principal 🚀
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,php,mysql,laravel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mongodb,express,react,nodejs,npm,php,mysql,spring,java&perline=10" />
   </a>
 </p>
 
 ### Estudiando en este Momento 📘
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,py,cpp,npm&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,laravel&perline=10" />
   </a>
 </p>
 
