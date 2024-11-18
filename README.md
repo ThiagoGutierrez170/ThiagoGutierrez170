@@ -4,6 +4,15 @@ Desarrollador Full Stack y estudiante de la Licenciatura en Análisis de sistema
 
 <br>
 
+<h2>Connect with me!</h2>
+
+<!-- Enlaces a redes sociales con badges -->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-gutierrez-403713244/) 
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/thiago_gutierrez_222/)
+
+<br><br>
+
+
 ## Tecnologías que Conozco 💻
 
 ### Stack Principal 🚀
@@ -42,3 +51,4 @@ Desarrollador Full Stack y estudiante de la Licenciatura en Análisis de sistema
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoGutierrez170&show_icons=true&theme=dark&locale=es&layout=compact" alt="ThiagoGutierrez170" />
 </p>
+
